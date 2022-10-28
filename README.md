@@ -1,1 +1,1 @@
-# -LGMVIP-Data-Science-Internships
+# LGMVIP-Data-Science-Internships
